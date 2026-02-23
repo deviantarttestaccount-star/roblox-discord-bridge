@@ -1,0 +1,16 @@
+{
+  "name": "roblox-discord-bridge",
+  "version": "1.0.0",
+  "description": "Roblox Discord Chat Bridge Proxy",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "discord.js": "^14.14.1"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
